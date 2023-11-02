@@ -33,5 +33,5 @@ Soy un Joven desarrollador con altas habilidades de liderazgo y organización, c
 @gmail.com
 
 # Referencias:
-[Las Brisas](https://www.lasbrisas.com.ar/?gclid=CjwKCAjw7oeqBhBwEiwALyHLM6pB9Si8RrAmMcgQ6J0wFHMYpNTiItHz-W6nzMPPIY43Uq8_0NFASBoCi-AQAvD_BwE)
-[Del Oeste](https://jugosdeloeste.com/)
+- [Las Brisas](https://www.lasbrisas.com.ar/?gclid=CjwKCAjw7oeqBhBwEiwALyHLM6pB9Si8RrAmMcgQ6J0wFHMYpNTiItHz-W6nzMPPIY43Uq8_0NFASBoCi-AQAvD_BwE)
+- [Del Oeste](https://jugosdeloeste.com/)
